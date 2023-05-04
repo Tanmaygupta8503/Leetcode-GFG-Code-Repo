@@ -1,0 +1,20 @@
+/*
+ * https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1
+ */
+ 
+ 
+ class Compute {
+    public long[] printFirstNegativeInteger(long arr[], int N, int K) {
+        long ans[] = new long[N-K+1];
+        Queue<Long> q = new LinkedList<>();
+        for(int i = 0 ; i < K ; i ++)
+            if(arr[i] < 0)  q.add(arr[i]);
+        if(!q.isEmpty())    ans[0] = q.peek();
+        for(int we = K ; we < N ; we ++){
+            if(!q.isEmpty() && arr[we-K] == q.peek())   q.poll();
+            if(arr[we] < 0) q.add(arr[we]);
+            if(!q.isEmpty())    ans[we-K+1] = q.peek();
+        }
+        return ans;
+    }
+}
