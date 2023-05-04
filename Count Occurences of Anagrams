@@ -1,0 +1,68 @@
+/*
+ * https://practice.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1
+ */
+ 
+ 
+ // tle
+ 
+ class Solution1 {
+    int search(String pat, String txt) {
+        if (pat.length() > txt.length()) {
+            return 0;
+        }
+        int ctr = 0;
+        for (int i = 0; i <= txt.length() - pat.length(); i++) {
+            if (isMatch(pat, txt , i , i + pat.length())) {
+                ctr++;
+            }
+        }
+        return ctr;
+    }
+
+    boolean isMatch(String pat, String substr , int s , int e) {
+        int[] patFreq = new int[26];
+        int[] substrFreq = new int[26];
+        for (int i = 0; i < pat.length(); i++) {
+            patFreq[pat.charAt(i) - 'a']++;
+        }
+        for(int i = s ; i < e ; i ++){
+            substrFreq[substr.charAt(i) - 'a']++;
+        }
+        for (int i = 0; i < 26; i++) {
+            if (patFreq[i] != substrFreq[i]) {
+                return false;
+            }
+        }
+        return true;
+    }
+}
+
+
+// accepted
+
+
+class Solution {
+    int search(String pat, String txt) {
+        if (pat.length() > txt.length()) {
+            return 0;
+        }
+        int[] patFreq = new int[26];
+        int[] txtFreq = new int[26];
+        int ctr = 0;
+        for (int i = 0; i < pat.length(); i++) {
+            patFreq[pat.charAt(i) - 'a']++;
+            txtFreq[txt.charAt(i) - 'a']++;
+        }
+        if (Arrays.equals(patFreq, txtFreq)) {
+            ctr++;
+        }
+        for (int i = pat.length(); i < txt.length(); i++) {
+            txtFreq[txt.charAt(i - pat.length()) - 'a']--;
+            txtFreq[txt.charAt(i) - 'a']++;
+            if (Arrays.equals(patFreq, txtFreq)) {
+                ctr++;
+            }
+        }
+        return ctr;
+    }
+}
