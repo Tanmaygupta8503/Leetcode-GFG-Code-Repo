@@ -1,0 +1,13 @@
+public class ArrayPrinter {
+    public static void printArray(int[] arr, int index) {
+        if (index >= arr.length) {
+            return;
+        }
+        System.out.println(arr[index]);
+        printArray(arr, index + 1);
+    }
+    public static void main(String[] args) {
+        int[] array = {1, 2, 3, 4, 5};
+        printArray(array, 0);
+    }
+}
