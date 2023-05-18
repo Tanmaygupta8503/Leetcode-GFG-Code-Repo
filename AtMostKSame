@@ -1,0 +1,34 @@
+package GFG;
+import java.util.HashMap;
+import java.util.Map;
+public class AtmostKSame {
+	
+	public static int maxLengthKChars(String s, int k) {
+        int maxLength = 0;
+        int left = 0;
+        Map<Character, Integer> charFreq = new HashMap<>();
+        for (int right = 0; right < s.length(); right++) {
+            char currentChar = s.charAt(right);
+            charFreq.put(currentChar, charFreq.getOrDefault(currentChar, 0) + 1);
+            while (charFreq.size() > k) {
+                char leftChar = s.charAt(left);
+                charFreq.put(leftChar, charFreq.get(leftChar) - 1);
+                if (charFreq.get(leftChar) == 0) {
+                    charFreq.remove(leftChar);
+                }
+                left++;
+            }
+            maxLength = Math.max(maxLength, right - left + 1);
+        }
+        return maxLength;
+    }
+	
+    public static void main(String[] args) {
+        String s = "aabbbccdddd";
+        int k = 3;
+        int maxLen = maxLengthKChars(s, k);
+        System.out.println(maxLen);  
+    }
+}
+	    
+
