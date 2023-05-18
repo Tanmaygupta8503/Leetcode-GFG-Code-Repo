@@ -1,0 +1,15 @@
+public class ArrayMax {
+    public static int findMax(int[] arr, int index) {
+        if (index == arr.length - 1) {
+            return arr[index];
+        }
+        int current = arr[index];
+        int maxInRest = findMax(arr, index + 1);
+        return Math.max(current, maxInRest);
+    }
+    public static void main(String[] args) {
+        int[] array = {4, 9, 2, 7, 5};
+        int max = findMax(array, 0);
+        System.out.println("Maximum element: " + max);
+    }
+}
