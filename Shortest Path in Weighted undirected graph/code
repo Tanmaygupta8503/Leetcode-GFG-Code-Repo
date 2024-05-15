@@ -1,0 +1,78 @@
+class Solution {
+  public:
+    vector<int> shortestPath(int n, int m, vector<vector<int>>& edges) {
+        // Create adjacency list for the graph (1-based indexing)
+        vector<pair<int, int>> adj[n + 1];
+    
+        // Populate adjacency list from input edges
+        for (auto edge : edges) {
+            int u = edge[0];
+            int v = edge[1];
+            int wt = edge[2];
+    
+            // Add edge (u, v) with weight wt
+            adj[u].push_back({v, wt});
+            adj[v].push_back({u, wt});  // Since the graph is undirected
+        }
+    
+        // Initialize parent array to track the shortest path tree
+        vector<int> parent(n + 1, 0);
+        for (int i = 1; i <= n; i++) {
+            parent[i] = i;  // Each node is initially its own parent
+        }
+    
+        // Initialize distance array to store shortest distances from the source node (1-based indexing)
+        vector<int> dis(n + 1, INT_MAX);
+    
+        // Priority queue to process nodes in order of their shortest distance
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
+    
+        // Start from node 1 (source node)
+        pq.push({0, 1});
+        dis[1] = 0;  // Distance from node 1 to itself is 0
+    
+        // Dijkstra's Algorithm
+        while (!pq.empty()) {
+            // Extract the node with the smallest distance from the priority queue
+            auto it = pq.top();
+            pq.pop();
+    
+            int dist = it.first;
+            int node = it.second;
+    
+            // Traverse all neighbors of the current node
+            for (auto neighbor : adj[node]) {
+                int u = neighbor.first;
+                int w = neighbor.second;
+    
+                // Relaxation step: Update the distance to the neighbor if a shorter path is found
+                if (dist + w < dis[u]) {
+                    parent[u] = node;  // Update parent of u to node
+                    dis[u] = dist + w; // Update shortest distance to u
+                    pq.push({dis[u], u}); // Push updated distance and node to priority queue
+                }
+            }
+        }
+    
+        // If distance to node n is still INT_MAX, there is no path to node n
+        if (dis[n] == INT_MAX) {
+            return {-1}; // Return -1 indicating no path exists
+        }
+    
+        // Reconstruct the shortest path from node 1 to node n
+        vector<int> path;
+        int node = n;
+    
+        // Traverse backwards from node n to node 1 using parent array
+        while(parent[node] != node) {
+            path.push_back(node);  // Add current node to the path
+            node = parent[node];   // Move to the parent of the current node
+        }
+        path.push_back(1);  // Add the source node (node 1) to the path
+        path.push_back(dis[n]);  // Add the total distance to node n to the path
+    
+        reverse(path.begin(), path.end());  // Reverse the path to get it in correct order
+    
+        return path;  // Return the shortest path from node 1 to node n
+    }  
+};
