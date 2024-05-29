@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
     public int numSteps(String s) {
         if(s.equals("1") || s.length() == 0 || s.equals("0")) return 0;
         if(s.charAt(s.length() - 1) == '0') {
@@ -25,7 +25,46 @@ class Solution {
             result.append(carry);
         }
         result.reverse();
-        System.out.println(result);
         return result.toString();
     } 
+}
+
+class Solution2 {
+    private void divideByTwo(StringBuilder s) {
+        s.deleteCharAt(s.length() - 1);
+    }
+    private void addOne(StringBuilder s) {
+        int i = s.length() - 1;
+        while (i >= 0 && s.charAt(i) != '0') {
+            s.setCharAt(i, '0');
+            i--;
+        }
+        if (i < 0) s.insert(0, '1');
+        else s.setCharAt(i, '1');
+    }
+    public int numSteps(String s) {
+        StringBuilder str = new StringBuilder(s);
+        int step = 0;
+        while (str.length() > 1) {
+            int n = str.length();
+            if (str.charAt(n - 1) == '0') divideByTwo(str);
+            else addOne(str);
+            step ++;
+        }
+        return step;
+    }
+}
+
+class Solution{
+    public int numSteps(String s) {
+        int carry = 0 , step = 0;
+        for(int i = s.length() - 1 ; i >= 1 ; i --) {
+            step ++;
+            if(((s.charAt(i) - '0') + carry) % 2 == 1) {
+                step ++;
+                carry = 1;
+            }
+        }
+        return step + carry;
+    }
 }
