@@ -21,3 +21,20 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0409-longest-palindrome) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+# Tree
+|  |
+| ------- |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+# Depth-First Search
+|  |
+| ------- |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+# Breadth-First Search
+|  |
+| ------- |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+# Binary Tree
+|  |
+| ------- |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
