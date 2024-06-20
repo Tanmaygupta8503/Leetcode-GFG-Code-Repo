@@ -66,6 +66,7 @@
 | [1137-height-checker](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1217-relative-sort-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
@@ -77,6 +78,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Math
 |  |
@@ -104,3 +106,4 @@
 | [0633-sum-of-square-numbers](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1675-magnetic-force-between-two-balls) |
