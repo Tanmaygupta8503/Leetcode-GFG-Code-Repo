@@ -40,10 +40,12 @@
 # Tree
 |  |
 | ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 # Depth-First Search
 |  |
 | ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 # Breadth-First Search
 |  |
@@ -52,6 +54,7 @@
 # Binary Tree
 |  |
 | ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 # Array
 |  |
@@ -116,3 +119,7 @@
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1370-count-number-of-nice-subarrays) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
