@@ -70,6 +70,7 @@
 | [1137-height-checker](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1217-relative-sort-array) |
+| [1293-three-consecutive-odds](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1675-magnetic-force-between-two-balls) |
