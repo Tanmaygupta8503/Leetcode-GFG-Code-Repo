@@ -195,4 +195,8 @@
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1720-crawler-log-folder) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
