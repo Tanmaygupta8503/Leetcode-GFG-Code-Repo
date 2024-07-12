@@ -141,6 +141,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0076-minimum-window-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -194,6 +195,7 @@
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0076-minimum-window-substring) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1720-crawler-log-folder) |
 ## Stack
@@ -210,4 +212,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0059-spiral-matrix-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
