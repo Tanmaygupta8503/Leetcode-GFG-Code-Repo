@@ -146,6 +146,7 @@
 | [0049-group-anagrams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0076-minimum-window-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +160,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2846-robot-collisions) |
 ## Greedy
@@ -204,12 +206,14 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0076-minimum-window-substring) |
+| [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1818-maximum-score-from-removing-substrings) |
