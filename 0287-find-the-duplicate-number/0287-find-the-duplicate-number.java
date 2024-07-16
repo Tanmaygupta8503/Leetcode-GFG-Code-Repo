@@ -1,4 +1,5 @@
-class Solution {
+//O(nlogn) complexity using sorting and constant extra space
+class Solution1 {
     public int findDuplicate(int[] nums) {
         Arrays.sort(nums);
         for(int i = 1 ; i < nums.length ; i ++) {
@@ -7,5 +8,26 @@ class Solution {
             }
         }   
         return -1;
+    }
+}
+
+//O(n) cyclic sort + O(1) extra space
+class Solution {
+    public int findDuplicate(int[] arr) {
+        int i = 0;
+        while (i < arr.length) {
+            int correctIdx = arr[i] - 1;
+            if (arr[i] != arr[correctIdx]) {
+                int temp = arr[i];
+                arr[i] = arr[correctIdx];
+                arr[correctIdx] = temp;
+            } else {
+                if (i != correctIdx) {
+                    return arr[i];
+                }
+                i++;
+            }
+        }
+        return -1; 
     }
 }
