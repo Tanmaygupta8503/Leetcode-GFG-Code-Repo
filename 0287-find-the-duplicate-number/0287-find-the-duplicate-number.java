@@ -12,7 +12,7 @@ class Solution1 {
 }
 
 //O(n) cyclic sort + O(1) extra space
-class Solution {
+class Solution2 {
     public int findDuplicate(int[] arr) {
         int i = 0;
         while (i < arr.length) {
@@ -29,5 +29,23 @@ class Solution {
             }
         }
         return -1; 
+    }
+}
+
+
+class Solution {
+    public int findDuplicate(int[] arr) {
+        int fast = arr[0];
+        int slow = arr[0];
+        do{
+            fast = arr[arr[fast]];
+            slow = arr[slow];
+        }while(fast != slow);
+        fast = arr[0];
+        while(slow != fast) {
+            fast = arr[fast];
+            slow = arr[slow];
+        }
+        return fast;
     }
 }
