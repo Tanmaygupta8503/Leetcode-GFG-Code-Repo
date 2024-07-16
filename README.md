@@ -133,6 +133,7 @@
 | [0054-spiral-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0059-spiral-matrix-ii) |
 | [0152-maximum-product-subarray](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0152-maximum-product-subarray) |
+| [0287-find-the-duplicate-number](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1121-partition-array-for-maximum-sum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -152,10 +153,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -241,4 +244,8 @@
 |  |
 | ------- |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2306-create-binary-tree-from-descriptions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
