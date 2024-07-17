@@ -133,6 +133,7 @@
 | [0049-group-anagrams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0169-majority-element) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -246,6 +248,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0073-set-matrix-zeroes) |
 ## Sliding Window
 |  |
 | ------- |
