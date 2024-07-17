@@ -137,6 +137,7 @@
 | [0075-sort-colors](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -165,6 +166,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
