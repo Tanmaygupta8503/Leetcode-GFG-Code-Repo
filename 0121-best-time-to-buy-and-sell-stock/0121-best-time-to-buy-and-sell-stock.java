@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
     Integer dp[][];
     public int maxProfit(int[] prices) {
         dp = new Integer[prices.length][2];
@@ -19,4 +19,17 @@ class Solution {
             return dp[idx][count] = Math.max(op1 , op2);
         }
     } 
+}
+class Solution {
+    public int maxProfit(int[] prices) {
+       int buy = prices[0];
+       int profit=0;
+        for(int i = 0 ; i < prices.length ; i ++){
+            if(prices[i] < buy)  //find better day to buy then update buy
+                buy = prices[i];
+            else  // if profit = buy - prices[i] > 0 then calculate profit
+                profit = Math.max(profit , prices[i] - buy);
+        } 
+        return profit; 
+    }
 }
