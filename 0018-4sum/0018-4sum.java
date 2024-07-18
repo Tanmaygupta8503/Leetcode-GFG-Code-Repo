@@ -2,11 +2,11 @@ class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         int n = nums.length;
         Arrays.sort(nums);
-        Set<List<Integer>> ans = new HashSet<>();
+        List<List<Integer>> ans = new ArrayList<>();
         for(int i =  0 ; i < n ; i ++){
             if (i > 0 && nums[i] == nums[i - 1]) continue;
             for(int j = i + 1 ; j < n ; j ++) {
-                // if (j > 0 && nums[j] == nums[j - 1]) continue;
+                if (j > i + 1 && nums[j] == nums[j - 1]) continue;
                 int low = j + 1;
                 int high = n - 1;
                 long sum = nums[i] + nums[j];
@@ -27,6 +27,6 @@ class Solution {
                 }
             }
         }
-        return new ArrayList<>(ans);
+        return ans;
     }
 }
