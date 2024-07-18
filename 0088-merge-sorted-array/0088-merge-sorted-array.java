@@ -20,10 +20,7 @@ class Solution {
         while(one >= 0) {
             nums1[zero --] = nums1[one --];
         }
-        int j=one;
-        int i=zero;
-        i++;
-        j++;
+        int i = nums1.length-m , j = 0;
         int ptr = 0;
         while(i < nums1.length && j < n) {
             if(nums1[i] < nums2[j]) {
