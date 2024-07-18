@@ -129,6 +129,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0054-spiral-matrix) |
@@ -168,6 +169,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0283-move-zeroes) |
@@ -181,6 +183,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0169-majority-element) |
