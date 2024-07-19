@@ -152,6 +152,7 @@
 | [1121-partition-array-for-maximum-sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1121-partition-array-for-maximum-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1803-average-waiting-time) |
@@ -279,6 +280,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0076-minimum-window-substring) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Tree
 |  |
 | ------- |
@@ -312,6 +314,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0560-subarray-sum-equals-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
 |  |
 | ------- |
