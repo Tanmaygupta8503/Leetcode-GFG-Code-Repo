@@ -137,6 +137,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -246,6 +247,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0079-word-search) |
 | [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1720-crawler-log-folder) |
@@ -268,6 +270,7 @@
 | [0054-spiral-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0079-word-search) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Sliding Window
 |  |
@@ -306,4 +309,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0560-subarray-sum-equals-k) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
