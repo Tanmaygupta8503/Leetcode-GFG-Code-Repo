@@ -166,6 +166,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0076-minimum-window-substring) |
@@ -239,6 +240,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0012-integer-to-roman) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2645-pass-the-pillow) |
 ## Recursion
@@ -262,6 +264,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0022-generate-parentheses) |
