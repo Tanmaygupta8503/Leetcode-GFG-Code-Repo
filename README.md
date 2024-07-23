@@ -265,6 +265,7 @@
 | [0020-valid-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0151-reverse-words-in-a-string) |
@@ -278,6 +279,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0071-simplify-path) |
 | [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1720-crawler-log-folder) |
