@@ -17,18 +17,4 @@ class Solution {
             solve(open, close - 1, s + ")");
         }
     }
-    public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
-        for (char i : s.toCharArray()) {
-            if (i == '(') {
-                stack.push(i);
-            } else if (i == ')') {
-                if (stack.isEmpty()) {
-                    return false;
-                }
-                stack.pop();
-            }
-        }
-        return stack.isEmpty();
-    }
 }
