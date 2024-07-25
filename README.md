@@ -323,6 +323,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0101-symmetric-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -330,6 +331,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0101-symmetric-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -349,6 +351,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0101-symmetric-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -382,5 +385,6 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
