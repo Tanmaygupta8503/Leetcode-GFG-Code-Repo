@@ -323,12 +323,14 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0101-symmetric-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0101-symmetric-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -347,6 +349,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0101-symmetric-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Prefix Sum
@@ -376,4 +379,8 @@
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2472-build-a-matrix-with-conditions) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
