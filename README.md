@@ -250,6 +250,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0012-integer-to-roman) |
+| [0227-basic-calculator-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0227-basic-calculator-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2645-pass-the-pillow) |
@@ -284,6 +285,7 @@
 | [0076-minimum-window-substring](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0151-reverse-words-in-a-string) |
+| [0227-basic-calculator-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0227-basic-calculator-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0680-valid-palindrome-ii) |
 | [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -295,6 +297,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0071-simplify-path) |
+| [0227-basic-calculator-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0227-basic-calculator-ii) |
 | [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1720-crawler-log-folder) |
