@@ -278,6 +278,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0338-counting-bits) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1121-partition-array-for-maximum-sum) |
 ## String
 |  |
@@ -354,6 +355,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
