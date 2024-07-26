@@ -255,6 +255,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0227-basic-calculator-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -273,6 +274,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0152-maximum-product-subarray) |
@@ -405,4 +407,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0098-validate-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
