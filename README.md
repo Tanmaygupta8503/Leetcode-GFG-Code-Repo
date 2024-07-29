@@ -347,6 +347,7 @@
 | [0100-same-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0102-binary-tree-level-order-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -357,6 +358,7 @@
 | [0100-same-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0102-binary-tree-level-order-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -379,6 +381,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0101-symmetric-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Prefix Sum
@@ -422,6 +425,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Memoization
 |  |
 | ------- |
