@@ -313,6 +313,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0227-basic-calculator-ii) |
 | [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -343,6 +344,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0101-symmetric-tree) |
@@ -354,6 +356,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0101-symmetric-tree) |
@@ -378,6 +381,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0101-symmetric-tree) |
