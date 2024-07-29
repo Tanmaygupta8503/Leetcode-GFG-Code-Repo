@@ -150,6 +150,7 @@
 | [0289-game-of-life](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0560-subarray-sum-equals-k) |
@@ -212,6 +213,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
@@ -338,6 +341,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0289-game-of-life) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2472-build-a-matrix-with-conditions) |
@@ -461,6 +465,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1622-max-value-of-equation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
 |  |
