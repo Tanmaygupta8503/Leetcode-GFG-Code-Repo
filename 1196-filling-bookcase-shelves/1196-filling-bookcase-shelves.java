@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
     int shelfWidth;
     Map<String , Integer> map;
     public int minHeightShelves(int[][] books, int shelfWidth) {
@@ -28,5 +28,30 @@ class Solution {
             map.put(key , option);
             return map.get(key);
         }
+    }
+}
+
+
+class Solution {
+    int shelfWidth;
+    Integer dp[];
+    public int minHeightShelves(int[][] books, int shelfWidth) {
+        dp = new Integer[books.length];
+        this.shelfWidth = shelfWidth;
+        return solve(books , 0);
+    }
+    public int solve(int [][]books , int idx){
+        if(idx >= books.length) return 0;
+        if(dp[idx] != null) return dp[idx];
+        int width = 0; 
+        int maxHeight = 0;
+        int i = 0;
+        int min = Integer.MAX_VALUE;
+        for(i = idx ; i < books.length && (width + books[i][0] <= shelfWidth); i ++){
+            maxHeight = Math.max(books[i][1] , maxHeight);
+            width += books[i][0];
+            min = Math.min(min , maxHeight + solve(books , i + 1));
+        }
+        return dp[idx] = min;
     }
 }
