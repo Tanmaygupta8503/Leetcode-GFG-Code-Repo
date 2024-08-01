@@ -254,6 +254,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -275,6 +276,7 @@
 | [0227-basic-calculator-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0227-basic-calculator-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0628-maximum-product-of-three-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2645-pass-the-pillow) |
 ## Recursion
