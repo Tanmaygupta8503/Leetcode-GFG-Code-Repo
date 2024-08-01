@@ -287,6 +287,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0232-implement-queue-using-stacks) |
 | [1622-max-value-of-equation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1622-max-value-of-equation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
@@ -334,6 +335,7 @@
 | [0071-simplify-path](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0232-implement-queue-using-stacks) |
 | [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1720-crawler-log-folder) |
@@ -500,4 +502,8 @@
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
