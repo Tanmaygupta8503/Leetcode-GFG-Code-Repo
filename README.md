@@ -210,6 +210,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -263,6 +264,7 @@
 | [0054-spiral-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0289-game-of-life) |
+| [0874-backspace-string-compare](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0874-backspace-string-compare) |
 | [1803-average-waiting-time](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -321,6 +323,7 @@
 | [0227-basic-calculator-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0227-basic-calculator-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0680-valid-palindrome-ii) |
 | [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
+| [0874-backspace-string-compare](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -337,6 +340,7 @@
 | [0227-basic-calculator-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0232-implement-queue-using-stacks) |
 | [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
+| [0874-backspace-string-compare](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1756-minimum-deletions-to-make-string-balanced) |
