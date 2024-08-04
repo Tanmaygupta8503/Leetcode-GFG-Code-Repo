@@ -279,6 +279,7 @@
 | [2645-pass-the-pillow](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2846-robot-collisions) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Math
 |  |
 | ------- |
@@ -291,6 +292,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2645-pass-the-pillow) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Recursion
