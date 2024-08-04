@@ -178,6 +178,7 @@
 | [2727-number-of-senior-citizens](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3442-maximum-total-reward-using-operations-i](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -315,6 +316,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3442-maximum-total-reward-using-operations-i](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3442-maximum-total-reward-using-operations-i) |
 ## String
 |  |
 | ------- |
