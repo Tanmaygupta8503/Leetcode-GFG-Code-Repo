@@ -178,6 +178,7 @@
 | [2727-number-of-senior-citizens](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -277,6 +278,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2846-robot-collisions) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Math
 |  |
 | ------- |
@@ -288,6 +290,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2645-pass-the-pillow) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Recursion
@@ -442,6 +445,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Backtracking
 |  |
 | ------- |
@@ -526,4 +530,8 @@
 |  |
 | ------- |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+## Combinatorics
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 <!---LeetCode Topics End-->
