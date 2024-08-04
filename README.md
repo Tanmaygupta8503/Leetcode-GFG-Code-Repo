@@ -410,6 +410,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0338-counting-bits) |
+| [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
