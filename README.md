@@ -155,6 +155,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0628-maximum-product-of-three-numbers) |
+| [0921-spiral-matrix-iii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0921-spiral-matrix-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1032-satisfiability-of-equality-equations) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1121-partition-array-for-maximum-sum) |
@@ -280,6 +281,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0289-game-of-life) |
 | [0874-backspace-string-compare](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0874-backspace-string-compare) |
+| [0921-spiral-matrix-iii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -388,6 +390,7 @@
 | [0079-word-search](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2472-build-a-matrix-with-conditions) |
