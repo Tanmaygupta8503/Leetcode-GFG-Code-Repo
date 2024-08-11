@@ -169,6 +169,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1622-max-value-of-equation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1622-max-value-of-equation) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -396,6 +397,7 @@
 | [0870-magic-squares-in-grid](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2472-build-a-matrix-with-conditions) |
 ## Sliding Window
@@ -465,6 +467,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Prefix Sum
 |  |
@@ -511,6 +514,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Search Tree
@@ -579,4 +583,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
