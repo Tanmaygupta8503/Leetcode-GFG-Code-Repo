@@ -243,6 +243,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0923-super-egg-drop](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0923-super-egg-drop) |
 ## Sorting
 |  |
 | ------- |
@@ -314,6 +315,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0870-magic-squares-in-grid](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0870-magic-squares-in-grid) |
+| [0923-super-egg-drop](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0923-super-egg-drop) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2645-pass-the-pillow) |
@@ -343,6 +345,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0338-counting-bits) |
+| [0923-super-egg-drop](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0923-super-egg-drop) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
