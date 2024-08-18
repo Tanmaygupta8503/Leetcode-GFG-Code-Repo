@@ -203,6 +203,7 @@
 | [0076-minimum-window-substring](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0169-majority-element) |
+| [0264-ugly-number-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -311,6 +312,7 @@
 | [0012-integer-to-roman](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0227-basic-calculator-ii) |
+| [0264-ugly-number-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0273-integer-to-english-words) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0628-maximum-product-of-three-numbers) |
@@ -344,6 +346,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0338-counting-bits) |
 | [0923-super-egg-drop](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0923-super-egg-drop) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1121-partition-array-for-maximum-sum) |
@@ -560,6 +563,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1622-max-value-of-equation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1622-max-value-of-equation) |
