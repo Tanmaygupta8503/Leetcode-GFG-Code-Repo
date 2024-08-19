@@ -316,6 +316,7 @@
 | [0273-integer-to-english-words](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0273-integer-to-english-words) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0628-maximum-product-of-three-numbers) |
+| [0650-2-keys-keyboard](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0870-magic-squares-in-grid) |
 | [0923-super-egg-drop](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0923-super-egg-drop) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -348,6 +349,7 @@
 | [0152-maximum-product-subarray](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0338-counting-bits) |
+| [0650-2-keys-keyboard](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0650-2-keys-keyboard) |
 | [0923-super-egg-drop](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0923-super-egg-drop) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1196-filling-bookcase-shelves) |
