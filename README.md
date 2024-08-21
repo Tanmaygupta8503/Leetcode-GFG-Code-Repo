@@ -355,6 +355,7 @@
 | [0264-ugly-number-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0338-counting-bits) |
 | [0650-2-keys-keyboard](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0664-strange-printer) |
 | [0923-super-egg-drop](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0923-super-egg-drop) |
 | [1063-best-sightseeing-pair](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1121-partition-array-for-maximum-sum) |
@@ -380,6 +381,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0664-strange-printer) |
 | [0680-valid-palindrome-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0680-valid-palindrome-ii) |
 | [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
 | [0874-backspace-string-compare](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0874-backspace-string-compare) |
