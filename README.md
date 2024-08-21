@@ -164,6 +164,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1032-satisfiability-of-equality-equations) |
+| [1063-best-sightseeing-pair](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
@@ -353,6 +354,7 @@
 | [0338-counting-bits](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0338-counting-bits) |
 | [0650-2-keys-keyboard](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0650-2-keys-keyboard) |
 | [0923-super-egg-drop](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0923-super-egg-drop) |
+| [1063-best-sightseeing-pair](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1240-stone-game-ii) |
