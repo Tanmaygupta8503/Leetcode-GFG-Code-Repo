@@ -214,6 +214,7 @@
 | [0870-magic-squares-in-grid](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -321,6 +322,7 @@
 | [0650-2-keys-keyboard](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0870-magic-squares-in-grid) |
 | [0923-super-egg-drop](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0923-super-egg-drop) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
