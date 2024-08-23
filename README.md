@@ -132,6 +132,7 @@
 | [0015-3sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0054-spiral-matrix) |
@@ -229,6 +230,7 @@
 | [0018-4sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0141-linked-list-cycle) |
