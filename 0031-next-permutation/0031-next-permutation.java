@@ -1,44 +1,39 @@
 class Solution {
     public void nextPermutation(int[] nums) {
-        int n = nums.length; 
-        List<Integer> arr = new ArrayList<>();
-        for(int i = 0 ; i < n ; i ++) {
-            arr.add(nums[i]);
-        }
-        // Step 1: Find the break point:
-        int ind = -1; // break point
+        int n = nums.length;
+        // Step 1: Find the break point (ind):
+        int ind = -1;
         for (int i = n - 2; i >= 0; i--) {
-            if (arr.get(i) < arr.get(i + 1)) {
-                // index i is the break point
+            if (nums[i] < nums[i + 1]) {
                 ind = i;
                 break;
             }
         }
-        // If break point does not exist:
+        // Step 2: If no break point exists, reverse the entire array:
         if (ind == -1) {
-            // reverse the whole array:
-            Collections.reverse(arr);
-            for(int i = 0 ; i < nums.length ; i ++){
-                nums[i] = arr.get(i);
-            }
+            reverse(nums, 0, n - 1);
             return;
         }
-        // Step 2: Find the next greater element
-        //         and swap it with arr[ind]:
+        // Step 3: Find the next greater element than nums[ind] to swap:
         for (int i = n - 1; i > ind; i--) {
-            if (arr.get(i) > arr.get(ind)) {
-                int tmp = arr.get(i);
-                arr.set(i, arr.get(ind));
-                arr.set(ind, tmp);
+            if (nums[i] > nums[ind]) {
+                swap(nums, i, ind);
                 break;
             }
+        }   
+        // Step 4: Reverse the right half after the break point:
+        reverse(nums, ind + 1, n - 1);
+    }    
+    private void reverse(int[] nums, int start, int end) {
+        while (start < end) {
+            swap(nums, start, end);
+            start++;
+            end--;
         }
-        // Step 3: reverse the right half:
-        List<Integer> sublist = arr.subList(ind + 1, n);
-        Collections.reverse(sublist);
-        for(int i = 0 ; i < nums.length ; i ++){
-            nums[i] = arr.get(i);
-        }
-        return;
+    }    
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
