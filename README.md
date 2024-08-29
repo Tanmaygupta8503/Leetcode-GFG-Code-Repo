@@ -215,6 +215,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0870-magic-squares-in-grid) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -509,6 +510,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0820-find-eventual-safe-states) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -543,6 +545,7 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0820-find-eventual-safe-states) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -612,6 +615,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1442-number-of-operations-to-make-network-connected) |
