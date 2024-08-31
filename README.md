@@ -154,6 +154,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0560-subarray-sum-equals-k) |
@@ -213,6 +214,7 @@
 | [0268-missing-number](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
@@ -331,6 +333,7 @@
 | [0264-ugly-number-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0273-integer-to-english-words) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0650-2-keys-keyboard) |
@@ -636,6 +639,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0232-implement-queue-using-stacks) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Number Theory
 |  |
 | ------- |
@@ -660,4 +664,8 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1240-stone-game-ii) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
