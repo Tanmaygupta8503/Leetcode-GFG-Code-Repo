@@ -172,6 +172,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1511-count-number-of-teams) |
@@ -550,6 +551,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1032-satisfiability-of-equality-equations) |
+| [1325-path-with-maximum-probability](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -589,6 +591,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2803-modify-graph-edge-weights) |
@@ -600,6 +603,7 @@
 | [0264-ugly-number-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1325-path-with-maximum-probability](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1325-path-with-maximum-probability) |
 | [1622-max-value-of-equation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1622-max-value-of-equation) |
 | [2803-modify-graph-edge-weights](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2803-modify-graph-edge-weights) |
 ## Monotonic Queue
