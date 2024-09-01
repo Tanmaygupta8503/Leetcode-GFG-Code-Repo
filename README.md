@@ -135,6 +135,7 @@
 | [0031-next-permutation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0059-spiral-matrix-ii) |
@@ -365,6 +366,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -496,6 +498,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0347-top-k-frequent-elements) |
