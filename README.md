@@ -166,6 +166,7 @@
 | [0753-open-the-lock](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0753-open-the-lock) |
 | [0870-magic-squares-in-grid](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -223,6 +224,7 @@
 | [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
 | [0753-open-the-lock](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0753-open-the-lock) |
 | [0870-magic-squares-in-grid](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -319,6 +321,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0289-game-of-life) |
 | [0874-backspace-string-compare](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0874-backspace-string-compare) |
+| [0906-walking-robot-simulation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
