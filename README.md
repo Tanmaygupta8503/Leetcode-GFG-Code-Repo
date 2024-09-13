@@ -481,6 +481,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1484-linked-list-in-binary-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -496,6 +497,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1484-linked-list-in-binary-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -536,6 +538,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -596,6 +599,7 @@
 | [0753-open-the-lock](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0753-open-the-lock) |
 | [0820-find-eventual-safe-states](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0999-regions-cut-by-slashes) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
