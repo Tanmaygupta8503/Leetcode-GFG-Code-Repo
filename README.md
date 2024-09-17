@@ -448,6 +448,7 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0177-nth-highest-salary) |
 ## Matrix
 |  |
 | ------- |
