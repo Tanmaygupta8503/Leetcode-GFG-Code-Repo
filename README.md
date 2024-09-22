@@ -573,6 +573,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0014-longest-common-prefix) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Graph
 |  |
