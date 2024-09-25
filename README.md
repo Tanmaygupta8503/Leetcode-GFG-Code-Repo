@@ -197,6 +197,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2472-build-a-matrix-with-conditions) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2846-robot-collisions) |
@@ -427,6 +428,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -532,6 +534,7 @@
 | [0169-majority-element](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0347-top-k-frequent-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Depth-First Search
 |  |
@@ -581,6 +584,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Graph
