@@ -543,6 +543,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0744-network-delay-time](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0999-regions-cut-by-slashes) |
@@ -585,6 +586,7 @@
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1032-satisfiability-of-equality-equations) |
@@ -609,6 +611,7 @@
 | [0101-symmetric-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0744-network-delay-time](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0753-open-the-lock) |
 | [0820-find-eventual-safe-states](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0999-regions-cut-by-slashes) |
@@ -630,6 +633,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -642,6 +646,7 @@
 | [0264-ugly-number-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0744-network-delay-time](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1325-path-with-maximum-probability) |
 | [1622-max-value-of-equation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1622-max-value-of-equation) |
 | [2803-modify-graph-edge-weights](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2803-modify-graph-edge-weights) |
