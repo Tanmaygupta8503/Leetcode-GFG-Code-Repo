@@ -164,6 +164,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0731-my-calendar-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0731-my-calendar-ii) |
 | [0753-open-the-lock](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0753-open-the-lock) |
 | [0870-magic-squares-in-grid](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0890-lemonade-change) |
@@ -270,6 +271,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0731-my-calendar-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0731-my-calendar-ii) |
 | [0923-super-egg-drop](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0923-super-egg-drop) |
 ## Sorting
 |  |
@@ -561,6 +563,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0560-subarray-sum-equals-k) |
+| [0731-my-calendar-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0731-my-calendar-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1435-xor-queries-of-a-subarray) |
@@ -686,6 +689,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0731-my-calendar-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0731-my-calendar-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -716,4 +720,12 @@
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
