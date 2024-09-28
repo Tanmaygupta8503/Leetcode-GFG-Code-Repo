@@ -166,6 +166,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0731-my-calendar-ii) |
 | [0753-open-the-lock](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0753-open-the-lock) |
+| [0859-design-circular-deque](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0906-walking-robot-simulation) |
@@ -317,6 +318,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0206-reverse-linked-list) |
+| [0859-design-circular-deque](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1484-linked-list-in-binary-tree) |
@@ -377,6 +379,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0859-design-circular-deque) |
 | [1622-max-value-of-equation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1622-max-value-of-equation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
@@ -690,6 +693,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0731-my-calendar-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0859-design-circular-deque) |
 ## Number Theory
 |  |
 | ------- |
