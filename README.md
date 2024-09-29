@@ -225,6 +225,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
@@ -320,6 +321,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0206-reverse-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -698,6 +700,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0432-all-oone-data-structure) |
 | [0731-my-calendar-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0732-my-calendar-iii) |
 | [0859-design-circular-deque](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0859-design-circular-deque) |
@@ -741,4 +744,8 @@
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0732-my-calendar-iii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
