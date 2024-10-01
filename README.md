@@ -187,6 +187,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1622-max-value-of-equation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1622-max-value-of-equation) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -239,6 +240,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1207-delete-nodes-and-return-forest) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -545,6 +547,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0347-top-k-frequent-elements) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
