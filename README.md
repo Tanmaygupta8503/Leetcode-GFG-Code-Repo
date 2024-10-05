@@ -232,6 +232,7 @@
 | [0432-all-oone-data-structure](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
 | [0753-open-the-lock](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0753-open-the-lock) |
 | [0870-magic-squares-in-grid](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0870-magic-squares-in-grid) |
@@ -267,6 +268,7 @@
 | [0283-move-zeroes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0874-backspace-string-compare](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0874-backspace-string-compare) |
@@ -438,6 +440,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0273-integer-to-english-words) |
+| [0567-permutation-in-string](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0664-strange-printer) |
 | [0680-valid-palindrome-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0680-valid-palindrome-ii) |
 | [0726-number-of-atoms](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0726-number-of-atoms) |
@@ -497,6 +500,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0567-permutation-in-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1622-max-value-of-equation) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
