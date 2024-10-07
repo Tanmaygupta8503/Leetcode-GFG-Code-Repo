@@ -1,47 +1,51 @@
 class MyQueue {
-    Stack<Integer> stack1 , stack2;
+
+    Stack<Integer> inputStack;
+    Stack<Integer> outputStack;
+
     public MyQueue() {
-        stack1 = new Stack<>();
-        stack2 = new Stack<>();
+        inputStack = new Stack<>();
+        outputStack = new Stack<>();
     }
-    
+
+    // O(1) - Push element into the queue
     public void push(int x) {
-        stack1.push(x);
+        inputStack.push(x);
     }
-    
+
+    // O(1) amortized - Remove element from the queue
     public int pop() {
-        while(!stack1.isEmpty()) {
-            stack2.push(stack1.pop());
-        }
-        if(stack2.isEmpty()) {
-            return -1;
-        }else{
-            int ele = stack2.pop();
-            while(!stack2.isEmpty()) {
-                stack1.push(stack2.pop());
+        if (outputStack.isEmpty()) {
+            // Transfer all elements from inputStack to outputStack
+            while (!inputStack.isEmpty()) {
+                outputStack.push(inputStack.pop());
             }
-            return ele;
         }
+        // If outputStack is still empty, the queue is empty
+        if (outputStack.isEmpty()) {
+            throw new RuntimeException("Queue is empty");
+        }
+        return outputStack.pop();
     }
-    
+
+    // O(1) - Return the front element
     public int peek() {
-        if(!stack2.isEmpty()){
-            return stack2.peek();
-        }else{
-            while(!stack1.isEmpty()) {
-                stack2.add(stack1.pop());
+        if (outputStack.isEmpty()) {
+            // Transfer elements from inputStack to outputStack if needed
+            while (!inputStack.isEmpty()) {
+                outputStack.push(inputStack.pop());
             }
-            if(stack2.isEmpty()) return -1;
-            int ele = stack2.peek();
-            while(!stack2.isEmpty()) {
-                stack1.add(stack2.pop());
-            }
-            return ele;
         }
+        // If outputStack is still empty, the queue is empty
+        if (outputStack.isEmpty()) {
+            throw new RuntimeException("Queue is empty");
+        }
+        return outputStack.peek();
     }
-    
+
+    // O(1) - Check if the queue is empty
     public boolean empty() {
-        return stack1.isEmpty() && stack2.isEmpty();
+        return inputStack.isEmpty() && outputStack.isEmpty();
     }
 }
 
