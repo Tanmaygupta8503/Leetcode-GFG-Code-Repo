@@ -206,6 +206,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2472-build-a-matrix-with-conditions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -282,6 +283,7 @@
 | [1923-sentence-similarity-iii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -317,6 +319,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2846-robot-collisions) |
@@ -334,6 +337,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
@@ -616,6 +620,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1694-make-sum-divisible-by-p) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Backtracking
 |  |
@@ -704,6 +709,7 @@
 | [1325-path-with-maximum-probability](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1325-path-with-maximum-probability) |
 | [1622-max-value-of-equation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1622-max-value-of-equation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2803-modify-graph-edge-weights) |
 ## Monotonic Queue
 |  |
