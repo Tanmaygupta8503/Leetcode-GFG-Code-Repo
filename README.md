@@ -227,6 +227,7 @@
 | [0049-group-anagrams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0264-ugly-number-ii) |
@@ -347,6 +348,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0025-reverse-nodes-in-k-group) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0432-all-oone-data-structure) |
