@@ -334,6 +334,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0890-lemonade-change) |
+| [1304-longest-happy-string](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -468,6 +469,7 @@
 | [0874-backspace-string-compare](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0874-backspace-string-compare) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1032-satisfiability-of-equality-equations) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1304-longest-happy-string](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -709,6 +711,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-network-delay-time](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0744-network-delay-time) |
+| [1304-longest-happy-string](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1325-path-with-maximum-probability) |
 | [1622-max-value-of-equation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1622-max-value-of-equation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
