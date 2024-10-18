@@ -204,6 +204,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2472-build-a-matrix-with-conditions) |
@@ -579,6 +580,7 @@
 | [0476-number-complement](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Divide and Conquer
 |  |
@@ -639,6 +641,7 @@
 | [0040-combination-sum-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0090-subsets-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String Matching
 |  |
 | ------- |
@@ -810,4 +813,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0493-reverse-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
