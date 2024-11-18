@@ -199,6 +199,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1755-defuse-the-bomb](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1755-defuse-the-bomb) |
 | [1803-average-waiting-time](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -546,6 +547,7 @@
 | [0567-permutation-in-string](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0567-permutation-in-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1622-max-value-of-equation) |
+| [1755-defuse-the-bomb](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Tree
 |  |
