@@ -234,6 +234,7 @@
 | [0076-minimum-window-substring](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0268-missing-number) |
@@ -360,6 +361,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0859-design-circular-deque) |
@@ -779,6 +781,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -831,6 +834,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0432-all-oone-data-structure) |
 ## Merge Sort
 |  |
