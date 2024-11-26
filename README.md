@@ -204,6 +204,7 @@
 | [1803-average-waiting-time](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2089-maximum-matrix-sum) |
@@ -461,6 +462,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3442-maximum-total-reward-using-operations-i) |
 ## String
