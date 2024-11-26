@@ -170,6 +170,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0731-my-calendar-ii) |
 | [0753-open-the-lock](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0753-open-the-lock) |
+| [0787-sliding-puzzle](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0890-lemonade-change) |
@@ -538,6 +539,7 @@
 | [0079-word-search](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0787-sliding-puzzle](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0999-regions-cut-by-slashes) |
@@ -712,6 +714,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0744-network-delay-time](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0753-open-the-lock) |
+| [0787-sliding-puzzle](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0999-regions-cut-by-slashes) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
