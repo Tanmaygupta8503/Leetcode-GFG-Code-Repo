@@ -129,6 +129,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -230,6 +231,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0049-group-anagrams) |
