@@ -225,6 +225,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3427-special-array-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3427-special-array-ii) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -314,6 +315,7 @@
 | [0731-my-calendar-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0732-my-calendar-iii) |
 | [0923-super-egg-drop](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0923-super-egg-drop) |
+| [3427-special-array-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -665,6 +667,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3427-special-array-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/3427-special-array-ii) |
 ## Backtracking
 |  |
 | ------- |
