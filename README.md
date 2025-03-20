@@ -189,6 +189,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1333-sort-the-jumbled-numbers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1435-xor-queries-of-a-subarray) |
+| [1489-pizza-with-3n-slices](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1489-pizza-with-3n-slices) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -354,6 +355,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1304-longest-happy-string) |
+| [1489-pizza-with-3n-slices](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1489-pizza-with-3n-slices) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -464,6 +466,7 @@
 | [1240-stone-game-ii](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1489-pizza-with-3n-slices](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1489-pizza-with-3n-slices) |
 | [1511-count-number-of-teams](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -761,6 +764,7 @@
 | [0744-network-delay-time](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/0744-network-delay-time) |
 | [1304-longest-happy-string](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1325-path-with-maximum-probability) |
+| [1489-pizza-with-3n-slices](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1489-pizza-with-3n-slices) |
 | [1622-max-value-of-equation](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/1622-max-value-of-equation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tanmaygupta8503/Leetcode-GFG-Code-Repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
